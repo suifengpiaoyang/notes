@@ -3,4 +3,4 @@
   * [html学习](https://github.com/suifengpiaoyang/html_learning)
   * [python学习](https://github.com/suifengpiaoyang/daily_learning)
   * 其他
-    * [markdown和html在github效果对比](https://github.com/suifengpiaoyang/html_md)
+    * [markdown 和 html 在 github 效果对比](https://github.com/suifengpiaoyang/html_md)
